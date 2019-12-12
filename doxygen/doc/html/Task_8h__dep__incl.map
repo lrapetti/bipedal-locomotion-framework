@@ -1,0 +1,11 @@
+<map id="TSID/include/BipedalLocomotion/TSID/Task.h" name="TSID/include/BipedalLocomotion/TSID/Task.h">
+<area shape="rect" id="node2" href="$BaseDynamicsTask_8h.html" title="TSID/include/BipedalLocomotion\l/TSID/BaseDynamicsTask.h" alt="" coords="17,95,229,136"/>
+<area shape="rect" id="node4" href="$JointsDynamicsTask_8h.html" title="TSID/include/BipedalLocomotion\l/TSID/JointsDynamicsTask.h" alt="" coords="260,95,472,136"/>
+<area shape="rect" id="node6" href="$JointsTrackingTask_8h.html" title="TSID/include/BipedalLocomotion\l/TSID/JointsTrackingTask.h" alt="" coords="496,95,708,136"/>
+<area shape="rect" id="node8" href="$SE3Task_8h.html" title="TSID/include/BipedalLocomotion\l/TSID/SE3Task.h" alt="" coords="732,95,944,136"/>
+<area shape="rect" id="node10" href="$Task_8cpp.html" title="TSID/src/Task.cpp" alt="" coords="969,102,1102,129"/>
+<area shape="rect" id="node3" href="$BaseDynamicsTask_8cpp.html" title="TSID/src/BaseDynamicsTask.cpp" alt="" coords="5,184,228,211"/>
+<area shape="rect" id="node5" href="$JointsDynamicsTask_8cpp.html" title="TSID/src/JointsDynamicsTask.cpp" alt="" coords="253,184,479,211"/>
+<area shape="rect" id="node7" href="$JointsTrackingTask_8cpp.html" title="TSID/src/JointsTrackingTask.cpp" alt="" coords="503,184,722,211"/>
+<area shape="rect" id="node9" href="$SE3Task_8cpp.html" title="TSID/src/SE3Task.cpp" alt="" coords="759,184,917,211"/>
+</map>

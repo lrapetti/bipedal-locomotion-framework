@@ -1,0 +1,4 @@
+<map id="BipedalLocomotion::System::FloatingBaseSystemKinematics" name="BipedalLocomotion::System::FloatingBaseSystemKinematics">
+<area shape="rect" id="node2" href="$classBipedalLocomotion_1_1System_1_1DynamicalSystem.html" title="BipedalLocomotion::\lSystem::DynamicalSystem\l\&lt; std::tuple\&lt; Eigen::Vector3d,\l Eigen::Matrix3d, Eigen::VectorXd\l \&gt;, std::tuple\&lt; Eigen::Vector3d,\l Eigen::Matrix3d, Eigen::VectorXd\l \&gt;, std::tuple\&lt; Eigen::Matrix\&lt; double,\l 6, 1 \&gt;, Eigen::VectorXd \&gt; \&gt;" alt="" coords="441,43,680,173"/>
+<area shape="rect" id="node3" href="$classBipedalLocomotion_1_1System_1_1DynamicalSystem.html" title="DynamicalSystem defines a continuous time dynamical system, i.e. " alt="" coords="5,73,188,143"/>
+</map>

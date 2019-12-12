@@ -1,0 +1,5 @@
+<map id="RobotInterface/include/BipedalLocomotion/RobotInterface/ISensorBridge.h" name="RobotInterface/include/BipedalLocomotion/RobotInterface/ISensorBridge.h">
+<area shape="rect" id="node2" href="$YarpSensorBridge_8h.html" title="RobotInterface/YarpImplementation\l/include/BipedalLocomotion\l/RobotInterface/YarpSensorBridge.h" alt="" coords="18,109,250,165"/>
+<area shape="rect" id="node3" href="$YarpSensorBridgeImpl_8h.html" title="RobotInterface/YarpImplementation\l/include/BipedalLocomotion\l/RobotInterface/YarpSensorBridgeImpl.h" alt="" coords="5,213,263,269"/>
+<area shape="rect" id="node4" href="$YarpSensorBridge_8cpp.html" title="RobotInterface/YarpImplementation\l/src/YarpSensorBridge.cpp" alt="" coords="20,317,248,359"/>
+</map>

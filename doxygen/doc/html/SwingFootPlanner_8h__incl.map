@@ -1,0 +1,11 @@
+<map id="Planners/include/BipedalLocomotion/Planners/SwingFootPlanner.h" name="Planners/include/BipedalLocomotion/Planners/SwingFootPlanner.h">
+<area shape="rect" id="node4" href="$IParametersHandler_8h.html" title="BipedalLocomotion/Parameters\lHandler/IParametersHandler.h" alt="" coords="255,109,457,151"/>
+<area shape="rect" id="node16" href="$ContactList_8h.html" title="BipedalLocomotion/Contacts\l/ContactList.h" alt="" coords="637,109,827,151"/>
+<area shape="rect" id="node20" href="$QuinticSpline_8h.html" title="BipedalLocomotion/Planners\l/QuinticSpline.h" alt="" coords="851,109,1037,151"/>
+<area shape="rect" id="node22" href="$Advanceable_8h.html" title="BipedalLocomotion/System\l/Advanceable.h" alt="" coords="1192,199,1373,240"/>
+<area shape="rect" id="node23" href="$SO3Planner_8h.html" title="BipedalLocomotion/Planners\l/SO3Planner.h" alt="" coords="1397,109,1584,151"/>
+<area shape="rect" id="node7" href="$Vector_8h_source.html" title="BipedalLocomotion/Generic\lContainer/Vector.h" alt="" coords="227,199,408,240"/>
+<area shape="rect" id="node9" href="$TemplateHelpers_8h_source.html" title="BipedalLocomotion/Generic\lContainer/TemplateHelpers.h" alt="" coords="99,288,291,329"/>
+<area shape="rect" id="node17" href="$Contact_8h.html" title="BipedalLocomotion/Contacts\l/Contact.h" alt="" coords="856,199,1045,240"/>
+<area shape="rect" id="node25" href="$SO3Planner_8tpp.html" title="BipedalLocomotion/Planners\l/SO3Planner.tpp" alt="" coords="1397,199,1584,240"/>
+</map>

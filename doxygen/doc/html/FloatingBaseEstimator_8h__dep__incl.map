@@ -1,0 +1,7 @@
+<map id="Estimators/include/BipedalLocomotion/FloatingBaseEstimators/FloatingBaseEstimator.h" name="Estimators/include/BipedalLocomotion/FloatingBaseEstimators/FloatingBaseEstimator.h">
+<area shape="rect" id="node2" href="$InvariantEKFBaseEstimator_8h.html" title="Estimators/include\l/BipedalLocomotion/Floating\lBaseEstimators/InvariantEKFBase\lEstimator.h" alt="" coords="5,109,231,180"/>
+<area shape="rect" id="node4" href="$LeggedOdometry_8h.html" title="Estimators/include\l/BipedalLocomotion/Floating\lBaseEstimators/LeggedOdometry.h" alt="" coords="255,117,485,173"/>
+<area shape="rect" id="node6" href="$FloatingBaseEstimator_8cpp.html" title="Estimators/src/FloatingBase\lEstimator.cpp" alt="" coords="509,124,695,165"/>
+<area shape="rect" id="node3" href="$InvariantEKFBaseEstimator_8cpp.html" title="Estimators/src/Invariant\lEKFBaseEstimator.cpp" alt="" coords="37,228,199,269"/>
+<area shape="rect" id="node5" href="$LeggedOdometry_8cpp.html" title="Estimators/src/LeggedOdometry.cpp" alt="" coords="253,235,487,262"/>
+</map>

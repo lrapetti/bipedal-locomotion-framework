@@ -1,0 +1,5 @@
+<map id="BipedalLocomotion::Contacts::SchmittTriggerDetector" name="BipedalLocomotion::Contacts::SchmittTriggerDetector">
+<area shape="rect" id="node2" href="$classBipedalLocomotion_1_1Contacts_1_1ContactDetector.html" title="BipedalLocomotion::\lContacts::ContactDetector" alt="" coords="25,215,204,256"/>
+<area shape="rect" id="node3" href="$classBipedalLocomotion_1_1System_1_1Advanceable.html" title="BipedalLocomotion::\lSystem::Advanceable\l\&lt; EstimatedContactList \&gt;" alt="" coords="29,109,201,165"/>
+<area shape="rect" id="node4" href="$classBipedalLocomotion_1_1System_1_1Advanceable.html" title="Basic class that contains only a get() and an advance() method. " alt="" coords="23,5,206,47"/>
+</map>

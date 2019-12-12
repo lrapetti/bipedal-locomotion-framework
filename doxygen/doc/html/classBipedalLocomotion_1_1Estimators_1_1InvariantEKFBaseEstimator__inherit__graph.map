@@ -1,0 +1,5 @@
+<map id="BipedalLocomotion::Estimators::InvariantEKFBaseEstimator" name="BipedalLocomotion::Estimators::InvariantEKFBaseEstimator">
+<area shape="rect" id="node2" href="$classBipedalLocomotion_1_1Estimators_1_1FloatingBaseEstimator.html" title="FloatingBaseEstimator class contains the bare&#45;bones implementation for a LeggedOdometry based or Exte..." alt="" coords="5,244,231,285"/>
+<area shape="rect" id="node3" href="$classBipedalLocomotion_1_1System_1_1Advanceable.html" title="BipedalLocomotion::\lSystem::Advanceable\l\&lt; FloatingBaseEstimators\l::Output \&gt;" alt="" coords="31,124,205,195"/>
+<area shape="rect" id="node4" href="$classBipedalLocomotion_1_1System_1_1Advanceable.html" title="Basic class that contains only a get() and an advance() method. " alt="" coords="27,5,209,47"/>
+</map>
